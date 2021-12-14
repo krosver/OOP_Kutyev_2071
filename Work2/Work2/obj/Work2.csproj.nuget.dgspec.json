@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\Paint\\Work2\\Work2\\Work2.csproj": {}
+    "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Work2\\Work2\\Work2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\Paint\\Work2\\Work2\\Work2.csproj": {
+    "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Work2\\Work2\\Work2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\Paint\\Work2\\Work2\\Work2.csproj",
+        "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Work2\\Work2\\Work2.csproj",
         "projectName": "Work2",
-        "projectPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\Paint\\Work2\\Work2\\Work2.csproj",
+        "projectPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Work2\\Work2\\Work2.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\Paint\\Work2\\Work2\\obj\\",
+        "outputPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Work2\\Work2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
