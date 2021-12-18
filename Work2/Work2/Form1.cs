@@ -69,6 +69,19 @@ namespace Work2
             End.X = e.X;
             End.Y = e.Y;
 
+            if (rb_move.Checked && change != null)
+            {
+                change.move(Start, End);
+                change = null;
+                Drow_panel.Refresh();
+            }
+            if (rb_del.Checked && change != null)
+            {
+                obj.Remove(change);
+                change = null;
+                Drow_panel.Refresh();
+            }
+
             // Выбор фигуры
             if (rb_rect.Checked)
             {
@@ -102,24 +115,7 @@ namespace Work2
             obj.Add(figure);
             Drow_panel.Refresh();
 
-            if (rb_move.Checked && change != null)
-            {
-                change.move(Start, End);
-                change = null;
-                Drow_panel.Refresh();
-            }
-            if (rb_del.Checked && change != null)
-            {
-                obj.Remove(change);
-                string f = null;
-                foreach (Figure fig in obj)
-                {
-                    f = f + " " + fig; 
-                }
-                MessageBox.Show(f);
-                change = null;
-                Drow_panel.Refresh();
-            }
+
 
         }
 
