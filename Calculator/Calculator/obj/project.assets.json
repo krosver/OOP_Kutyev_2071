@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\university\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Kirill\\Desktop\\university\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kirill\\Desktop\\Уник\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Kirill\\Desktop\\university\\ООП\\OOP_Kutyev_2071\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
       }
     }
   }
