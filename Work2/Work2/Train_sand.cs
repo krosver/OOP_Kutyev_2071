@@ -33,8 +33,12 @@ namespace Work2
             int difY;
             difX = end.X - start.X;
             difY = end.Y - start.Y;
-            Start.X += difX;
-            Start.Y += difY;
+            triangle[0].X += difX;
+            triangle[0].Y += difY;
+            triangle[1].X += difX;
+            triangle[1].Y += difY;
+            triangle[2].X += difX;
+            triangle[2].Y += difY;
         }
         public override bool IsPointInside(int x, int y)
         {

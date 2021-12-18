@@ -74,12 +74,14 @@ namespace Work2
                 change.move(Start, End);
                 change = null;
                 Drow_panel.Refresh();
+                return;
             }
             if (rb_del.Checked && change != null)
             {
                 obj.Remove(change);
                 change = null;
                 Drow_panel.Refresh();
+                return;
             }
 
             // Выбор фигуры

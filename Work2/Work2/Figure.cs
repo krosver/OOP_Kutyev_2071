@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace Work2
 {
-    class Figure
+    abstract class Figure
     {
         public Point Start;
         public Size size;
@@ -25,9 +25,6 @@ namespace Work2
 
 
         }
-        public virtual void Draw(Graphics gr, Pen pen) 
-        {
-
-        }
+        public abstract void Draw(Graphics gr, Pen pen);
     }
 }
